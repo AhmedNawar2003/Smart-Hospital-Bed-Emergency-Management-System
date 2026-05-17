@@ -140,7 +140,7 @@ This system digitizes emergency healthcare coordination by enabling hospitals, a
 ## 🏛️ System Architecture
 
 <p align="center">
-  <img src="/Smart Hospital System.png" width="100%" alt="Smart Hospital System Architecture"/>
+  <img src="/smart_hospital_system.png" width="100%" alt="Smart Hospital System Architecture"/>
 </p>
 
 ```text
